@@ -1,3 +1,8 @@
+/*
+* Author: Daniele
+ * Date: 21/01/2025
+*/
+
 #include "GuessTheNumber.h"
 
 int main() {

@@ -1,3 +1,8 @@
+/*
+* Author: Daniele
+ * Date: 21/01/2025
+*/
+
 #ifndef GUESS_THE_NUMBER_H
 #define GUESS_THE_NUMBER_H
 
